@@ -1,0 +1,41 @@
+bil
+id
+navn
+farve
+registretet første
+antal døre
+kørt kilometer
+pris (incl moms)
+
+billede 
+
+billede upload
+
+
+kategori
+mærke
+model
+brændstof
+km
+modelår
+pris
+? nysynet
+
+udstyr
+
+beskrivelse
+
+nummerplade
+
+biløkonomi
+grøn ejerafgit
+værditab
+brændstof
+forsikring
+
+
+https://www.bilbasen.dk/
+https://www.nummerpladeapi.dk/
+
+100 opslag
+https://www.motorapi.dk/
